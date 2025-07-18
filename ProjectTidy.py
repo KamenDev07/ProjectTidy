@@ -11,7 +11,6 @@ FILE_TYPE_MAP = {
     'Shaders': ['.shader', '.hlsl', '.glsl'],
     'Docs': ['.txt', '.md', '.pdf', '.docx'],
     'UI': ['.ui', '.svg', '.psd'],
-    'VFX': ['.vfx', '.json', '.png', '.jpg']
 }
 
 def create_folder(path):
